@@ -1,3 +1,7 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brupez)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @Brupez
 - 👀 I’m interested in learning with GitHub community and looking for new opportunities.
 - 🌱 I’m currently student in Computer Science and engineering at Aveiro's University

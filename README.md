@@ -1,4 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brupez&show_icons=true&theme=react)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brupez&layout=compact)
+
 - 👋 Hi, I’m @Brupez
 - 👀 I’m interested in learning with GitHub community and looking for new opportunities.
 - 🌱 I’m currently student in Computer Science and engineering at Aveiro's University
